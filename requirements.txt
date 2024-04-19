@@ -1,0 +1,8 @@
+nengo
+nengo-spa 
+nengo-gui
+numpy
+matplotlib
+scipy
+pytry
+sspslam
